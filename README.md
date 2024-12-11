@@ -15,7 +15,7 @@ Harnessing Vision-Language Pretrained Models with Temporal-Aware Adaptation for 
 
 ## Introduction
 
-We introduce a framework named VLP-RVOS which harnesses VLP models for RVOS through temporal-aware adaptation. We first propose a temporal-aware prompt-tuning method, which not only adapts pretrained representations for pixellevel prediction but also empowers the vision encoder to model temporal contexts. We further customize a cube-frame attention mechanism for robust spatial-temporal reasoning. Besides, we propose to perform multi-stage VL relation modeling while and after feature extraction for comprehensive VL understanding. Extensive experiments demonstrate that our method performs favorably against state-of-the-art algorithms and exhibits strong generalization abilities.
+We introduce a framework named VLP-RVOS which harnesses VLP models for RVOS through temporal-aware adaptation. We first propose a temporal-aware prompt-tuning method, which not only adapts pretrained representations for pixel level prediction but also empowers the vision encoder to model temporal contexts. We further customize a cube-frame attention mechanism for robust spatial-temporal reasoning. Besides, we propose to perform multi-stage VL relation modeling while and after feature extraction for comprehensive VL understanding. Extensive experiments demonstrate that our method performs favorably against state-of-the-art algorithms and exhibits strong generalization abilities.
 
 # Installation
 
